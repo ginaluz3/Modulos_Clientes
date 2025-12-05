@@ -1,0 +1,3 @@
+com\sena\controlador\ControladorCliente.class
+com\sena\dao\ClienteDAO.class
+com\sena\modelo\Cliente.class
